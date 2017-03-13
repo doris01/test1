@@ -1,8 +1,6 @@
 
 git is a good tool
 
-test update function 
-
-my stupid boss still like svn
+test update funct
 
 i8999000  ddd  dkdj
